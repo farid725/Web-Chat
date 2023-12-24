@@ -8,7 +8,7 @@ class Page3 extends StatelessWidget {
     return Container(
         color: Colors.red,
         child: const Center(
-            child: Text('Page 3'),
+            child: Text('Page 3',style: TextStyle(color: Colors.blue),),
         ),
     );
   }
