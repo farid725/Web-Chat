@@ -6,9 +6,9 @@ class Page3 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-        color: Colors.red,
+        color: Colors.orangeAccent,
         child: const Center(
-            child: Text('Page 3',style: TextStyle(color: Colors.blue),),
+            child: Text('Page 3',style: TextStyle(color: Colors.blue,fontSize: 65),),
         ),
     );
   }
