@@ -1,9 +1,9 @@
 import 'dart:developer';
+import 'package:WebChatter/Page/ReelsPage.dart';
+import 'package:WebChatter/Page/Setings.dart';
 import 'package:animated_notch_bottom_bar/animated_notch_bottom_bar/animated_notch_bottom_bar.dart';
 import 'package:animation_search_bar/animation_search_bar.dart';
 import 'package:flutter/material.dart';
-import 'package:untitled1/Page/ReelsPage.dart';
-import 'package:untitled1/Page/Setings.dart';
 import 'i.dart';
 
 void main() {
